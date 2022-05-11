@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #1a1919;
+    background-color: #16161a;
     font-family: "Poppins", sans-serif;
 }
 
@@ -22,7 +22,7 @@ header, ul {
 }
 
 header {
-    background-color: #202020c9;
+    background-color: #16161a;
     box-shadow: 0 0 20px 0 #6246ea;
 }
 
@@ -36,7 +36,7 @@ header ul li:not(:nth-child(3)) {
 
 header ul li a:hover {
     transition: 0.3s all;
-    background-color: #494848d5;
+    background-color: #16161a;
 }
 
 header ul li a {
@@ -61,7 +61,7 @@ section.input_tokens .center textarea {
     outline: none;
     text-decoration: none;
     margin-bottom: 30px;
-    background-color: #1a1919;
+    background-color: #16161a;
     color: white;
     padding: 20px;
     border-radius: 3px;
