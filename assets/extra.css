@@ -148,7 +148,7 @@ label input {
 }
 
 label input:focus {
-    border-color: #ff4754;
+    border-color: #6246ea;
 }
 
 label p {
@@ -172,5 +172,5 @@ label input:focus+p,
 label input:not(:placeholder-shown)+p {
     top: 0;
     font-size: 0.9rem;
-    color: #ff4754;
+    color: #6246ea;
 }
